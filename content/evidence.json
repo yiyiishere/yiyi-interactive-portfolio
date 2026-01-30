@@ -1,8 +1,26 @@
 {
-  "ecommerce_experience": {
-    "title": "UK E-commerce Operations",
-    "type": "website",
-    "url": "...",
-    "why_it_matters": "Shows end-to-end commercial execution."
-  }
+  "what_do_you_do": [
+    {
+      "title": "Mini Documentary – UK Second-Hand Fashion",
+      "type": "interactive_webpage",
+      "url": "https://preview.shorthand.com/s93IgbaCaFcSDFSY",
+      "why_it_matters": "Demonstrates end-to-end project execution including research, content structuring and delivery within a real-world commercial and cultural context."
+    }
+  ],
+  "ecommerce_experience": [
+    {
+      "title": "Mini Documentary – UK Second-Hand Fashion",
+      "type": "interactive_webpage",
+      "url": "https://preview.shorthand.com/s93IgbaCaFcSDFSY",
+      "why_it_matters": "Shows understanding of audience behaviour, content-led engagement and how insights can inform commercial or platform-based decision making."
+    }
+  ],
+  "working_with_data": [
+    {
+      "title": "Mini Documentary – UK Second-Hand Fashion",
+      "type": "interactive_webpage",
+      "url": "https://preview.shorthand.com/s93IgbaCaFcSDFSY",
+      "why_it_matters": "Reflects the use of qualitative research, observation and structured insight synthesis to support analysis and informed conclusions."
+    }
+  ]
 }
