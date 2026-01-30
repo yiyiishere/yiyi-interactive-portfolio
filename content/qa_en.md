@@ -6,11 +6,11 @@ My experience spans three closely connected areas: high-end consultative sales i
 I primarily work as a hybrid executor and coordinator, translating commercial objectives into structured, actionable tasks across teams and functions. Compared with typical candidates, I adapt quickly to new environments by breaking down unfamiliar systems into transferable operating logic, allowing me to deliver reliably with minimal ramp-up.
 
 In the longer term, I aim to develop within mature commercial organisations, deepening my understanding of how proven business models operate at scale while growing alongside them.
-## What do you do
+## what do you do
 I work on the execution and coordination of commercial systems rather than job titles. In my current role, I support the day-to-day operation of a Jaeger-LeCoultre boutique in Leeds, covering inventory control, client management and the planning and execution of in-store activities. Alongside this, I built an e-commerce brand, Fluffy Bean, from scratch, using AI agents to support SEO, listing structure and product descriptions, achieving a 3.4% conversion rate during the Christmas period.
 
 My work typically follows a clear input–process–output model: absorbing product, customer and commercial constraints, processing them through prioritisation and trade-off decisions, and delivering outcomes aligned with both customer needs and business objectives. I operate in fast-paced, multi-threaded environments and measure performance through trend-based data analysis, focusing on causes and applying insights to the next cycle.
-## Retail to non-retail
+## retail to non-retail
 I am not transitioning away from retail due to dissatisfaction, but because my experience and capability allow me to take on responsibility beyond customer-facing sales. Retail developed my ability to operate under pressure, assess individual customer needs and deliver structured solutions through clear, goal-oriented communication. Working on the frontline in the UK also gave me a practical understanding of local consumer behaviour and how commercial decisions translate into outcomes.
 
 These skills have already transferred into non-retail contexts. I have applied my understanding of UK customer preferences to product sourcing and selection activities supporting e-commerce execution. I am also aware of the limits of transferability: an excessive focus on short-term KPIs can reduce decision quality if not balanced with broader commercial context. My transition is based on combining UK retail execution with China e-commerce operations experience to contribute effectively to structured commercial, buying or operations-focused roles.
@@ -22,7 +22,7 @@ I have direct exposure to product selection, supplier communication, pricing log
 I use data as a structured input to decision-making rather than as an isolated performance signal. In retail, I worked with visual merchandising outcomes alongside footfall and in-store performance indicators to assess execution quality. In e-commerce contexts, I focus on conversion, pricing and trend-based performance data to inform adjustments. 
 
 I have independently organised, cleaned and compared datasets, including using AI agents to support data structuring and validation, with manual sense-checking to ensure reliability. I do not rely solely on data when engaging with individual customers, where judgement and direct interaction are required alongside metrics. To avoid misinterpreting results, I analyse both positive and negative data in depth, focusing on underlying causes rather than surface-level outcomes, and apply those insights to subsequent execution cycles.
-## Why hire you
+## why hire you
 I work best in structured teams with open management styles that value clear communication, consistency and reliable execution. I deliver results most quickly in roles involving cross-cultural coordination, frequent information exchange and clearly defined responsibilities. These environments allow me to contribute effectively with minimal ramp-up time. 
 
 I am most effective when routine tasks are connected to broader operational understanding and decision support, rather than isolated from context. Hiring me provides a perspective shaped by both UK and China commercial environments, supporting accurate execution and informed coordination. Compared with not hiring me, I bring faster adaptation, strong organisation and disciplined use of new tools to improve efficiency and execution quality in a controlled, predictable way.
